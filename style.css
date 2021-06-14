@@ -6,7 +6,8 @@
 
 body {
   font-family: "Merriweather", sans-serif;
-  background-color: #ebf2ff;
+ /* background-color: #ebf2ff; */
+  background-color: #f2f2f2;
   overflow-x: hidden;
   transition: 0.5s;
 }
